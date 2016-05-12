@@ -16,7 +16,7 @@ class Rectangle
 		int get_length();
 		int get_width();
 
-		/* Method for computing the area of the rectabgle */
+		/* Method for computing the area of the rectangle */
 		int area();
 };
 
